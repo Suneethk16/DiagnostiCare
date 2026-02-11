@@ -1,0 +1,17 @@
+Patient Name: John Doe
+Age: 52
+
+Diagnosis:
+Type 2 Diabetes Mellitus
+
+Medications:
+Metformin 500mg twice daily
+
+Lab Results:
+HbA1c: 8.2%
+
+Doctor Notes:
+Advise lifestyle modification including diet and exercise.
+Repeat HbA1c test in 3 months.
+Follow-up visit required.
+

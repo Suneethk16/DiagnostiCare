@@ -1,0 +1,10 @@
+streamlit
+sqlalchemy
+pydantic
+pytest
+langgraph
+pdf2image
+pytesseract
+pypdf
+google-genai
+python-dotenv
